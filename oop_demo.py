@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
+#hhhh
 #定义一个类，类名为Student
 class Student(object):
     def __init__(self, sno, name):
